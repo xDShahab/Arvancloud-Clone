@@ -9,7 +9,7 @@ the [ArvanCloud.com](https://arvancloud.com) template made using React, Typescri
 
 2. Run `yarn start` or `npm start`. The app should now work!
 
---
+---
 
 # ابر آروان
 قالب [ArvanCloud.com](https://arvancloud.com) که با استفاده از React و Typescript ساخته شده است
